@@ -1,6 +1,8 @@
 abstract class A{
     abstract public void sho1();
-    abstract public void show();
+     public void show(){
+        System.out.println("Inside show");
+     }
 }
 
 enum Status{

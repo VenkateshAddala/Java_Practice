@@ -18,5 +18,9 @@ public class StreamExample {
 
     System.out.println(res);
     System.out.println(result);
+
+
+
+    
    } 
 }
